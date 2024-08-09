@@ -1,4 +1,4 @@
-# nails-spa front creation
+# LOGIN-API front creation
 npx create-react-app react-front
 
 
