@@ -16,7 +16,7 @@
 }
 
 #menu i {
-    color: violet;
+    color: rgb(85, 145, 223) ;
     font-size: 48px;
 }
 
@@ -41,24 +41,24 @@
 
 .btn.btn-primary,
 .btn.btn-info {
-    background-color: pink;
+    background-color: rgb(71, 114, 206);
     color: black
 }
 
 .btn-primary:hover {
-    background-color: blueviolet !important;
+    background-color: rgb(33, 10, 236) !important;
 }
 
 .btn-danger {
-    background-color: violet !important;
+    background-color: rgb(44, 127, 236) !important;
 }
 
 .btn-info:hover {
-    background-color: pink !important;
+    background-color: rgb(121, 154, 243) !important;
 }
 
 .fa-solid.fa-hand-sparkles {
-    color: violet;
+    color: rgb(28, 90, 224);
     font-size: 48px;
     margin: 40px auto;
 }
@@ -68,7 +68,7 @@ td {
 }
 
 thead tr th {
-    background-color: violet !important;
+    background-color: rgb(102, 154, 189) !important;
     color: white !important;
 }
 
